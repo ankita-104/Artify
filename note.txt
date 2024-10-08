@@ -1,0 +1,7 @@
+we use only 2 additional packages used in CLIENT-->
+tailwind css & file-saver.
+
+in backend, we install some external packages => cloudinary to store images, cors- cross origin request, dotenv - for secret keys, express, mongoose , nodemon, openai.
+
+
+>>in client->src->constants->index.js---[we have 50 different prompts.]
